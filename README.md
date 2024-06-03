@@ -7,3 +7,10 @@ For more datasets, please visit:
 https://people.idsia.ch/~monaldo/fjsp.html
 
 https://github.com/Optimization-and-Machine-Learning-Lab/Job-Shop/tree/main_nips/data
+
+
+Personal repositories of outstanding FJSP researchers can be referenced at the following link:
+
+https://github.com/Optimization-and-Machine-Learning-Lab
+
+https://github.com/Aihong-Sun
